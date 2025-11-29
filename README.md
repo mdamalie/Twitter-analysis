@@ -3,6 +3,8 @@ Overview
 This project analyzes Twitter data using R programming. It focuses on understanding speech patterns, word usage, and sentiment expressed in tweets. The goal is to identify common words, themes, and emotional trends in public communication.
 
 Key Features
+
+
 • Twitter data extraction (via API or uploaded dataset)
 • Text cleaning and preprocessing
 • Word frequency analysis
@@ -11,6 +13,7 @@ Key Features
 • Comparison between speech content and tweets
 
 Tools and Technologies
+
 • R Programming
 • tidyverse
 • tidytext
@@ -19,6 +22,7 @@ Tools and Technologies
 • rtweet (if using Twitter API)
 
 Project Structure
+
 • Data folder – contains raw and cleaned datasets
 • Scripts folder – contains R scripts used for analysis
 • Plots folder – contains charts and visualizations
@@ -35,6 +39,7 @@ Run the script to generate analysis results.
 View visual outputs in the Plots folder.
 
 Possible Improvements
+
 • Add topic modeling (LDA)
 • Track sentiment changes over time
 • Compare communication styles of different public figures
