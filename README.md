@@ -1,4 +1,5 @@
 Overview
+
 This project analyzes Twitter data using R programming. It focuses on understanding speech patterns, word usage, and sentiment expressed in tweets. The goal is to identify common words, themes, and emotional trends in public communication.
 
 Key Features
